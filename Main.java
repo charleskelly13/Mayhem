@@ -2,7 +2,7 @@ package gameengine;
 
 import java.util.ArrayList;
 
-import Practical.Character;
+import Character;
 
 public class Main  {
 	

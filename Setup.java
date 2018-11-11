@@ -3,7 +3,7 @@ import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.text.DefaultCaret;
 
-import Practical.Character;
+import Character;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
